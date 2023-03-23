@@ -1,0 +1,17 @@
+{
+  "name": "fnGh17v1",
+  "blockId": "77yHJDo7Qndh8Lkq4S_MR",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/candidate-app/fnGh17v1",
+    "ssh": "git@github.com:candidate-app/fnGh17v1.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false,
+  "supportedAppblockVersions": [
+    "2.0.0"
+  ]
+}
